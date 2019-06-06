@@ -154,22 +154,22 @@
 }
 
 .btn-primary:hover {
-  background-color: #4f837f;
+  background-color: #af0f0f;
 }
 
 .btn-primary:focus {
-  background-color: #4f837f;
+  background-color: #af0f0f;
   color: white;
 }
 
 .btn-primary:active {
-  background-color: #467370 !important;
+  background-color: #c40909 !important;
 }
 
 .about-section {
   padding-top: 10rem;
-  background: -webkit-gradient(linear, left top, left bottom, from(#161616), color-stop(75%, rgba(22, 22, 22, 0.9)), to(rgba(22, 22, 22, 0.8)));
-  background: linear-gradient(to bottom, #161616 0%, rgba(22, 22, 22, 0.9) 75%, rgba(22, 22, 22, 0.8) 100%);
+  background: -webkit-gradient(linear, left top, left bottom, from(#000000), color-stop(75%, rgba(22, 22, 22, 1.0)), to(rgba(22, 22, 22, 0.9)));
+  background: linear-gradient(to bottom, #000000 0%, rgba(22, 22, 22, 0.9) 75%, rgba(22, 22, 22, 0.8) 80%);
 }
 
 .about-section p {
