@@ -248,7 +248,7 @@
 }
 
 .contact-section .card hr {
-  border-color: #64a19d;
+  border-color: #c40909;
   border-width: 0.25rem;
   width: 3rem;
 }
@@ -281,12 +281,12 @@ body {
 }
 
 a {
-  color: #64a19d;
+  color: #c40909;
 }
 
 a:focus, a:hover {
   text-decoration: none;
-  color: #3c6360;
+  color: #c40909;
 }
 
 .bg-black {
